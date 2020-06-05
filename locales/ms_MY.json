@@ -17,7 +17,7 @@
   "finish": "Finish",
   "price-each": "{{price}} each",
   "exchange-rate": "<0 /> / <1>{{sourceCurrency}}</1>",
-  "remaining": "Remaining",
+  "remaining": "Remaiing",
   "not-available-short": "N/A",
   "set-price": "Set a price",
   "market": "Market",
